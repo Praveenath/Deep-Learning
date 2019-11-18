@@ -1,2 +1,1 @@
-Download data from:
-https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv
+Click [Here](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv) download the dataset
